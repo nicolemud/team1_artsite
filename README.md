@@ -1,7 +1,8 @@
 # team1_artsite
 This site is for the art department to make their online processes and functions easier to use.
 ## Installation
-* Create the Pantheon site
+* install Drupal 8
+*Create the Pantheon site
 * Install Git
 *
 ## Code
