@@ -1,8 +1,8 @@
-# team1_artsite
+# SGCI Online Collection Platform
 This site is for the art department to make their online processes and functions easier to use.
 ## Installation
-* install Drupal 8
-*Create the Pantheon site
+* Install Drupal 8
+* Create the Pantheon site
 * Install Git
 *
 ## Code
